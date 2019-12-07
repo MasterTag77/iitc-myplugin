@@ -7,10 +7,10 @@
 // @description    Plugin description goes here.
 // @updateURL      https://github.com/hayeswise/myplugin/raw/master/myplugin.user.js
 // @downloadURL	   https://github.com/hayeswise/myplugin/raw/master/myplugin.user.js
-// @include        https://*.ingress.com/intel*
-// @include        http://*.ingress.com/intel*
-// @match          https://*.ingress.com/intel*
-// @match          http://*.ingress.com/intel*
+// @include        https://*intel.ingress.com/intel*
+// @include        http://*intel.ingress.com/intel*
+// @match          https://*intel.ingress.com/intel*
+// @match          http://*intel.ingress.com/intel*
 // @author         Hayeswise
 // @grant          none
 // ==/UserScript==
